@@ -1,0 +1,4 @@
+{"type":"view","postid":0,"time":"2013-07-07T09:03:13.170Z"}
+{"type":"create","title":"Title 1","body":"Body 1","time":"2013-07-07T09:03:18.141Z"}
+{"type":"edit","postid":1,"title":"Title 1 (Edit)","body":"Body 1 (edit)","time":"2013-07-07T09:03:19.9450"}
+{"type":"view","postid":1,"time":"2013-07-07T09:03:21.330Z"}

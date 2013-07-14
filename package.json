@@ -1,0 +1,19 @@
+{
+   "name":        "total-recall",
+   "version":     "0.1.0",
+   "description": "Web traffic replay tool",
+   "url":         "https://github.com/marczych/total-recall",
+   "keywords":    ["load testing", "traffic", "request", "replay"],
+   "license":     "Apache 2.0",
+   "author":      "Marc Zych <marczych@gmail.com>",
+   "directories": {"lib" : "./lib"},
+   "main":        "./lib/total_recall",
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/marczych/total-recall.git"
+   },
+   "dependencies": {
+      "line-reader": "~0.2.3",
+      "request": "~2.20.0"
+   }
+}
